@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d837c78e2c0de44d9d1b64c9d17029c, type: 3}
+  m_Name: Equipment Data - CuartoJuramento
+  m_EditorClassIdentifier: 
+  saveId: 301fae0d56ed6cf478affd3b6abb7fac
+  itemName: Oath IV
+  itemIcon: {fileID: -8495028010266426047, guid: 0ac35624ff1de0f42a46c789721d04ec, type: 3}
+  itemType: 1
+  itemRarity: 800
+  dropChance: 20.1
+  maxDropChance: 20.5
+  modifiers:
+  - statType: 14
+    value: 80
+  - statType: 1
+    value: 5
+  - statType: 0
+    value: 40
+  skillDataItem:
+    skillData: {fileID: 0}

@@ -1,0 +1,2742 @@
+fileFormatVersion: 2
+guid: 141672181abfe4f42b8e2c73238998b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2514835373721152211
+    second: Warrior_Sheet-Effect Parry_0
+  - first:
+      213: -1889028040797720518
+    second: Warrior_Sheet-Effect Parry_1
+  - first:
+      213: 1148593426771590688
+    second: Warrior_Sheet-Effect Parry_2
+  - first:
+      213: -246484962569032743
+    second: Warrior_Sheet-Effect Parry_3
+  - first:
+      213: 3602614918287421311
+    second: Warrior_Sheet-Effect Parry_4
+  - first:
+      213: 1186813896238964480
+    second: Warrior_Sheet-Effect Parry_5
+  - first:
+      213: -6458314036380715711
+    second: Warrior_Sheet-Effect Parry_6
+  - first:
+      213: 5769667989943840286
+    second: Warrior_Sheet-Effect Parry_7
+  - first:
+      213: -4373094255898878138
+    second: Warrior_Sheet-Effect Parry_8
+  - first:
+      213: -6220054683294738752
+    second: Warrior_Sheet-Effect Parry_9
+  - first:
+      213: -3463175664477614778
+    second: Warrior_Sheet-Effect Parry_10
+  - first:
+      213: -3092215605569963526
+    second: Warrior_Sheet-Effect Parry_11
+  - first:
+      213: 5396778415809049368
+    second: Warrior_Sheet-Effect Parry_12
+  - first:
+      213: 3680010377056305403
+    second: Warrior_Sheet-Effect Parry_13
+  - first:
+      213: -3098826169582832670
+    second: Warrior_Sheet-Effect Parry_14
+  - first:
+      213: 3401291413671859524
+    second: Warrior_Sheet-Effect Parry_15
+  - first:
+      213: -5445057709906929933
+    second: Warrior_Sheet-Effect Parry_16
+  - first:
+      213: -31948742654691701
+    second: Warrior_Sheet-Effect Parry_17
+  - first:
+      213: 3657583250406887815
+    second: Warrior_Sheet-Effect Parry_18
+  - first:
+      213: -2717650304271691554
+    second: Warrior_Sheet-Effect Parry_19
+  - first:
+      213: -972848489220042679
+    second: Warrior_Sheet-Effect Parry_20
+  - first:
+      213: 5985378038623821198
+    second: Warrior_Sheet-Effect Parry_21
+  - first:
+      213: 5233568243424963264
+    second: Warrior_Sheet-Effect Parry_22
+  - first:
+      213: -7929113075339404740
+    second: Warrior_Sheet-Effect Parry_23
+  - first:
+      213: -7410545691882891288
+    second: Warrior_Sheet-Effect Parry_24
+  - first:
+      213: -4863161869057777695
+    second: Warrior_Sheet-Effect Parry_25
+  - first:
+      213: -8999252989904535315
+    second: Warrior_Sheet-Effect Parry_26
+  - first:
+      213: 2312609987148277753
+    second: Warrior_Sheet-Effect Parry_27
+  - first:
+      213: -3406755565621361043
+    second: Warrior_Sheet-Effect Parry_28
+  - first:
+      213: -2720517070656416212
+    second: Warrior_Sheet-Effect Parry_29
+  - first:
+      213: 811979114589438366
+    second: Warrior_Sheet-Effect Parry_30
+  - first:
+      213: -6755559459473838387
+    second: Warrior_Sheet-Effect Parry_31
+  - first:
+      213: 480957001033081222
+    second: Warrior_Sheet-Effect Parry_32
+  - first:
+      213: 8944298425342812604
+    second: Warrior_Sheet-Effect Parry_33
+  - first:
+      213: -2322272931165205933
+    second: Warrior_Sheet-Effect Parry_34
+  - first:
+      213: 6772310698687577658
+    second: Warrior_Sheet-Effect Parry_35
+  - first:
+      213: -1599191923114557126
+    second: Warrior_Sheet-Effect Parry_36
+  - first:
+      213: 288562121472484341
+    second: Warrior_Sheet-Effect Parry_37
+  - first:
+      213: 5511489661449030337
+    second: Warrior_Sheet-Effect Parry_38
+  - first:
+      213: 520281826095177498
+    second: Warrior_Sheet-Effect Parry_39
+  - first:
+      213: -6585940871186214069
+    second: Warrior_Sheet-Effect Parry_40
+  - first:
+      213: -2081480079211907145
+    second: Warrior_Sheet-Effect Parry_41
+  - first:
+      213: 6269402359192924525
+    second: Warrior_Sheet-Effect Parry_42
+  - first:
+      213: -2205796440118802832
+    second: Warrior_Sheet-Effect Parry_43
+  - first:
+      213: 4150643057574235241
+    second: Warrior_Sheet-Effect Parry_44
+  - first:
+      213: -4911267354867491626
+    second: Warrior_Sheet-Effect Parry_45
+  - first:
+      213: 1466147625495336754
+    second: Warrior_Sheet-Effect Parry_46
+  - first:
+      213: 1668023966518631840
+    second: Warrior_Sheet-Effect Parry_47
+  - first:
+      213: -1961128081321772399
+    second: Warrior_Sheet-Effect Parry_48
+  - first:
+      213: 2098409942032908792
+    second: Warrior_Sheet-Effect Parry_49
+  - first:
+      213: 6705016575140420924
+    second: Warrior_Sheet-Effect Parry_50
+  - first:
+      213: -1549900900420504339
+    second: Warrior_Sheet-Effect Parry_51
+  - first:
+      213: 8743293609464577769
+    second: Warrior_Sheet-Effect Parry_52
+  - first:
+      213: 8709365052685897504
+    second: Warrior_Sheet-Effect Parry_53
+  - first:
+      213: -9020689004056955873
+    second: Warrior_Sheet-Effect Parry_54
+  - first:
+      213: 1946057107238773989
+    second: Warrior_Sheet-Effect Parry_55
+  - first:
+      213: 5922638723095812524
+    second: Warrior_Sheet-Effect Parry_56
+  - first:
+      213: 1268073807282547915
+    second: Warrior_Sheet-Effect Parry_57
+  - first:
+      213: 6023830997441807655
+    second: Warrior_Sheet-Effect Parry_58
+  - first:
+      213: 2316465969779041952
+    second: Warrior_Sheet-Effect Parry_59
+  - first:
+      213: -4937233221191942374
+    second: Warrior_Sheet-Effect Parry_60
+  - first:
+      213: -7046492647230496985
+    second: Warrior_Sheet-Effect Parry_61
+  - first:
+      213: -6935384834333843129
+    second: Warrior_Sheet-Effect Parry_62
+  - first:
+      213: -4211463401520950751
+    second: Warrior_Sheet-Effect Parry_63
+  - first:
+      213: -1612405159943370768
+    second: Warrior_Sheet-Effect Parry_64
+  - first:
+      213: 9033992571485073214
+    second: Warrior_Sheet-Effect Parry_65
+  - first:
+      213: 3204102815533240965
+    second: Warrior_Sheet-Effect Parry_66
+  - first:
+      213: -628539398580116653
+    second: Warrior_Sheet-Effect Parry_67
+  - first:
+      213: 753892885038496374
+    second: Warrior_Sheet-Effect Parry_68
+  - first:
+      213: 6863442459296277049
+    second: Warrior_Sheet-Effect Parry_69
+  - first:
+      213: -309665536034412767
+    second: Warrior_Sheet-Effect Parry_70
+  - first:
+      213: 9014685612369872742
+    second: Warrior_Sheet-Effect Parry_71
+  - first:
+      213: 4537443506406119578
+    second: Warrior_Sheet-Effect Parry_72
+  - first:
+      213: 3869301854362520217
+    second: Warrior_Sheet-Effect Parry_73
+  - first:
+      213: 541455534242663862
+    second: Warrior_Sheet-Effect Parry_74
+  - first:
+      213: 286752338760827657
+    second: Warrior_Sheet-Effect Parry_75
+  - first:
+      213: -4641887917522224267
+    second: Warrior_Sheet-Effect Parry_76
+  - first:
+      213: -2623989741127625751
+    second: Warrior_Sheet-Effect Parry_77
+  - first:
+      213: 6110650388811533812
+    second: Warrior_Sheet-Effect Parry_78
+  - first:
+      213: 4089730511216768222
+    second: Warrior_Sheet-Effect Parry_79
+  - first:
+      213: 8652752140751814852
+    second: Warrior_Sheet-Effect Parry_80
+  - first:
+      213: -5844491347889504460
+    second: Warrior_Sheet-Effect Parry_81
+  - first:
+      213: 7595027530405170652
+    second: Warrior_Sheet-Effect Parry_82
+  - first:
+      213: 569331087076124456
+    second: Warrior_Sheet-Effect Parry_83
+  - first:
+      213: -3513293436588275448
+    second: Warrior_Sheet-Effect Parry_84
+  - first:
+      213: 3539036184217755534
+    second: Warrior_Sheet-Effect Parry_85
+  - first:
+      213: -1026737572638750877
+    second: Warrior_Sheet-Effect Parry_86
+  - first:
+      213: 2266590581453346799
+    second: Warrior_Sheet-Effect Parry_87
+  - first:
+      213: -852927536477371144
+    second: Warrior_Sheet-Effect Parry_88
+  - first:
+      213: 735225836061017876
+    second: Warrior_Sheet-Effect Parry_89
+  - first:
+      213: 1651392155507113907
+    second: Warrior_Sheet-Effect Parry_90
+  - first:
+      213: -571834486331939122
+    second: Warrior_Sheet-Effect Parry_91
+  - first:
+      213: -2196083181936679825
+    second: Warrior_Sheet-Effect Parry_92
+  - first:
+      213: -4273982328382708314
+    second: Warrior_Sheet-Effect Parry_93
+  - first:
+      213: 1617892699126307703
+    second: Warrior_Sheet-Effect Parry_94
+  - first:
+      213: 3349843819838394634
+    second: Warrior_Sheet-Effect Parry_95
+  - first:
+      213: 8848192728167021533
+    second: Warrior_Sheet-Effect Parry_96
+  - first:
+      213: -7877522400406494215
+    second: Warrior_Sheet-Effect Parry_97
+  - first:
+      213: -4891319103188772180
+    second: Warrior_Sheet-Effect Parry_98
+  - first:
+      213: 6387149950080803545
+    second: Warrior_Sheet-Effect Parry_99
+  - first:
+      213: -5552633796733652725
+    second: Warrior_Sheet-Effect Parry_100
+  - first:
+      213: 5620295808572702637
+    second: Warrior_Sheet-Effect Parry_101
+  - first:
+      213: -2513339280073898981
+    second: Warrior_Sheet-Effect Parry_102
+  - first:
+      213: 8646848224536308057
+    second: Warrior_Sheet-Effect Parry_103
+  - first:
+      213: -6458327297418055863
+    second: Warrior_Sheet-Effect Parry_104
+  - first:
+      213: -9179873596899337711
+    second: Warrior_Sheet-Effect Parry_105
+  - first:
+      213: -5004713643342981637
+    second: Warrior_Sheet-Effect Parry_106
+  - first:
+      213: 2610713776310243512
+    second: Warrior_Sheet-Effect Parry_107
+  - first:
+      213: 4105128613637439354
+    second: Warrior_Sheet-Effect Parry_108
+  - first:
+      213: -8119042786731577853
+    second: Warrior_Sheet-Effect Parry_109
+  - first:
+      213: 241857534794385077
+    second: Warrior_Sheet-Effect Parry_110
+  - first:
+      213: -126405983620232529
+    second: Warrior_Sheet-Effect Parry_111
+  - first:
+      213: 4267920453121155989
+    second: Warrior_Sheet-Effect Parry_112
+  - first:
+      213: -3859113707751804757
+    second: Warrior_Sheet-Effect Parry_113
+  - first:
+      213: 2540514082560060081
+    second: Warrior_Sheet-Effect Parry_114
+  - first:
+      213: 182077343526091163
+    second: Warrior_Sheet-Effect Parry_115
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da6c3fb27d76e220800000000000000
+      internalID: 2514835373721152211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 704
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30ff716103d8c5e0800000000000000
+      internalID: -1889028040797720518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 704
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02eb11ad2af90ff00800000000000000
+      internalID: 1148593426771590688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 704
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbe8938b3f449cf0800000000000000
+      internalID: -246484962569032743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 704
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f6b034e2f0ff130800000000000000
+      internalID: 3602614918287421311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 704
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f12db53f8687010800000000000000
+      internalID: 1186813896238964480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145bb9df9957f56a0800000000000000
+      internalID: -6458314036380715711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 660
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e6b84c77af11050800000000000000
+      internalID: 5769667989943840286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 660
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f98d3a1f5af43c0800000000000000
+      internalID: -4373094255898878138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 660
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c656b6883deda9a0800000000000000
+      internalID: -6220054683294738752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 660
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dc804f41450ffc0800000000000000
+      internalID: -3463175664477614778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 660
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9351d3a4e3615d0800000000000000
+      internalID: -3092215605569963526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8133bc5306535ea40800000000000000
+      internalID: 5396778415809049368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 616
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0413eb0f5021330800000000000000
+      internalID: 3680010377056305403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 616
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3b45d5402cef4d0800000000000000
+      internalID: -3098826169582832670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 616
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4455f791580d33f20800000000000000
+      internalID: 3401291413671859524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 616
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6de7bacd44f64b0800000000000000
+      internalID: -5445057709906929933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 616
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86fb0fa9ce7e8ff0800000000000000
+      internalID: -31948742654691701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781dbe8669852c230800000000000000
+      internalID: 3657583250406887815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 572
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0572e6277f84ad0800000000000000
+      internalID: -2717650304271691554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 572
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94093c3147fbf72f0800000000000000
+      internalID: -972848489220042679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 572
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dd89e3d95501350800000000000000
+      internalID: 5985378038623821198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_22
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 572
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca2c19b69e51a840800000000000000
+      internalID: 5233568243424963264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 572
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a5d701ba126f190800000000000000
+      internalID: -7929113075339404740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7d48bb4f3782990800000000000000
+      internalID: -7410545691882891288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 528
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef1695db04928cb0800000000000000
+      internalID: -4863161869057777695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 528
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de04ed4f51b3c1380800000000000000
+      internalID: -8999252989904535315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 528
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f76ef3d78a081020800000000000000
+      internalID: 2312609987148277753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 528
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66cd82ecd5c8b0d0800000000000000
+      internalID: -3406755565621361043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_29
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 528
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26532e5328ce3ad0800000000000000
+      internalID: -2720517070656416212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91c322e3bab44b00800000000000000
+      internalID: 811979114589438366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 484
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce280fc67e6f32a0800000000000000
+      internalID: -6755559459473838387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_32
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 484
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68160de18d3bca600800000000000000
+      internalID: 480957001033081222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 484
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1e4a76708802c70800000000000000
+      internalID: 8944298425342812604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_34
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 484
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a8462b211a5cfd0800000000000000
+      internalID: -2322272931165205933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_35
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 484
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eb9dff2b41cfd50800000000000000
+      internalID: 6772310698687577658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3145173b678ec9e0800000000000000
+      internalID: -1599191923114557126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 440
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3200a78bd210400800000000000000
+      internalID: 288562121472484341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 440
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca48ed55aebc7c40800000000000000
+      internalID: 5511489661449030337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 440
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f9e737099683700800000000000000
+      internalID: 520281826095177498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 440
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b431835eba90a94a0800000000000000
+      internalID: -6585940871186214069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 440
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7b58765e81d13e0800000000000000
+      internalID: -2081480079211907145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61b0bd9a34610750800000000000000
+      internalID: 6269402359192924525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 396
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076c5e313df6361e0800000000000000
+      internalID: -2205796440118802832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_44
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 396
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c472caedb0a9930800000000000000
+      internalID: 4150643057574235241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_45
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 396
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc962c9c5ca7dbb0800000000000000
+      internalID: -4911267354867491626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_46
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 396
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2379ee55f7dc85410800000000000000
+      internalID: 1466147625495336754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_47
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 396
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad5e21c5f2062710800000000000000
+      internalID: 1668023966518631840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ab5c9866ca8c4e0800000000000000
+      internalID: -1961128081321772399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 352
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1050479bc0f1d10800000000000000
+      internalID: 2098409942032908792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_50
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 352
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dd956ec010d0d50800000000000000
+      internalID: 6705016575140420924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_51
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 352
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4b061c755ad7ae0800000000000000
+      internalID: -1549900900420504339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_52
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 352
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee341fb63b665970800000000000000
+      internalID: 8743293609464577769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_53
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 352
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f4b880f51edd870800000000000000
+      internalID: 8709365052685897504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14b9ebf42310d280800000000000000
+      internalID: -9020689004056955873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_55
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 308
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4679dd0a8c10b10800000000000000
+      internalID: 1946057107238773989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_56
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 308
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca959170a80713250800000000000000
+      internalID: 5922638723095812524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_57
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 308
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccad00c86a199110800000000000000
+      internalID: 1268073807282547915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_58
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 308
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72581856062f89350800000000000000
+      internalID: 6023830997441807655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_59
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 308
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6e5feb68db52020800000000000000
+      internalID: 2316465969779041952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fb89d3b8c6b7bb0800000000000000
+      internalID: -4937233221191942374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_61
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 264
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f9c617544d53e90800000000000000
+      internalID: -7046492647230496985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 264
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74166e80d3090cf90800000000000000
+      internalID: -6935384834333843129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_63
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 264
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12219cf7950ed85c0800000000000000
+      internalID: -4211463401520950751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_64
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 264
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f78197cc069f99e0800000000000000
+      internalID: -1612405159943370768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_65
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 264
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fa2ee21603f5d70800000000000000
+      internalID: 9033992571485073214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58210bfd882477c20800000000000000
+      internalID: 3204102815533240965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_67
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 220
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3536b444fbaf647f0800000000000000
+      internalID: -628539398580116653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_68
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 220
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67af96ba59d567a00800000000000000
+      internalID: 753892885038496374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_69
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 220
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93220ba7d88df3f50800000000000000
+      internalID: 6863442459296277049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_70
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 220
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127ec7de5d8d3bbf0800000000000000
+      internalID: -309665536034412767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_71
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 220
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66781277dc89a1d70800000000000000
+      internalID: 9014685612369872742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a985db324dc38fe30800000000000000
+      internalID: 4537443506406119578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_73
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 176
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ac90e398582b530800000000000000
+      internalID: 3869301854362520217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_74
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 176
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd043c80f2a38700800000000000000
+      internalID: 541455534242663862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_75
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 176
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9030a5a9bbfbaf300800000000000000
+      internalID: 286752338760827657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_76
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 176
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bf8e46883b49fb0800000000000000
+      internalID: -4641887917522224267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_77
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 176
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e391d1ab37b59bd0800000000000000
+      internalID: -2623989741127625751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdc6bb27246dc450800000000000000
+      internalID: 6110650388811533812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_79
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 132
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4f62c4b34a1c830800000000000000
+      internalID: 4089730511216768222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_80
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 132
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0430f4a30c41870800000000000000
+      internalID: 8652752140751814852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 132
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fb334a51234eea0800000000000000
+      internalID: -5844491347889504460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_82
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 132
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddcc197c45f66960800000000000000
+      internalID: 7595027530405170652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_83
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 132
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82762c47b9ba6e700800000000000000
+      internalID: 569331087076124456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809c170db364e3fc0800000000000000
+      internalID: -3513293436588275448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_85
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 88
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f9d8fa8ae2d1130800000000000000
+      internalID: 3539036184217755534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_86
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 88
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36702591e9b40c1f0800000000000000
+      internalID: -1026737572638750877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_87
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 88
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7d5caff1c847f10800000000000000
+      internalID: 2266590581453346799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_88
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 88
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f40e11bceac924f0800000000000000
+      internalID: -852927536477371144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_89
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 88
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4174b14a00c043a00800000000000000
+      internalID: 735225836061017876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf3edd7a6ceae610800000000000000
+      internalID: 1651392155507113907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_91
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 44
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6eddb709f6018f0800000000000000
+      internalID: -571834486331939122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_92
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64647b3bf1f581e0800000000000000
+      internalID: -2196083181936679825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_93
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 44
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5a37487b3cfa4c0800000000000000
+      internalID: -4273982328382708314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_94
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 44
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b1f1086d8e37610800000000000000
+      internalID: 1617892699126307703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_95
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 44
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a015186b4390d7e20800000000000000
+      internalID: 3349843819838394634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbf69218681bca70800000000000000
+      internalID: 8848192728167021533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_97
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3a69d1d1b6da290800000000000000
+      internalID: -7877522400406494215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Sheet-Effect Parry_98
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caad953e03b8e1cb0800000000000000
+      internalID: -4891319103188772180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0249e300fe060be4fad02614296a61c9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Warrior_Sheet-Effect Parry_0: 2514835373721152211
+      Warrior_Sheet-Effect Parry_1: -1889028040797720518
+      Warrior_Sheet-Effect Parry_10: -3463175664477614778
+      Warrior_Sheet-Effect Parry_11: -3092215605569963526
+      Warrior_Sheet-Effect Parry_12: 5396778415809049368
+      Warrior_Sheet-Effect Parry_13: 3680010377056305403
+      Warrior_Sheet-Effect Parry_14: -3098826169582832670
+      Warrior_Sheet-Effect Parry_15: 3401291413671859524
+      Warrior_Sheet-Effect Parry_16: -5445057709906929933
+      Warrior_Sheet-Effect Parry_17: -31948742654691701
+      Warrior_Sheet-Effect Parry_18: 3657583250406887815
+      Warrior_Sheet-Effect Parry_19: -2717650304271691554
+      Warrior_Sheet-Effect Parry_2: 1148593426771590688
+      Warrior_Sheet-Effect Parry_20: -972848489220042679
+      Warrior_Sheet-Effect Parry_21: 5985378038623821198
+      Warrior_Sheet-Effect Parry_22: 5233568243424963264
+      Warrior_Sheet-Effect Parry_23: -7929113075339404740
+      Warrior_Sheet-Effect Parry_24: -7410545691882891288
+      Warrior_Sheet-Effect Parry_25: -4863161869057777695
+      Warrior_Sheet-Effect Parry_26: -8999252989904535315
+      Warrior_Sheet-Effect Parry_27: 2312609987148277753
+      Warrior_Sheet-Effect Parry_28: -3406755565621361043
+      Warrior_Sheet-Effect Parry_29: -2720517070656416212
+      Warrior_Sheet-Effect Parry_3: -246484962569032743
+      Warrior_Sheet-Effect Parry_30: 811979114589438366
+      Warrior_Sheet-Effect Parry_31: -6755559459473838387
+      Warrior_Sheet-Effect Parry_32: 480957001033081222
+      Warrior_Sheet-Effect Parry_33: 8944298425342812604
+      Warrior_Sheet-Effect Parry_34: -2322272931165205933
+      Warrior_Sheet-Effect Parry_35: 6772310698687577658
+      Warrior_Sheet-Effect Parry_36: -1599191923114557126
+      Warrior_Sheet-Effect Parry_37: 288562121472484341
+      Warrior_Sheet-Effect Parry_38: 5511489661449030337
+      Warrior_Sheet-Effect Parry_39: 520281826095177498
+      Warrior_Sheet-Effect Parry_4: 3602614918287421311
+      Warrior_Sheet-Effect Parry_40: -6585940871186214069
+      Warrior_Sheet-Effect Parry_41: -2081480079211907145
+      Warrior_Sheet-Effect Parry_42: 6269402359192924525
+      Warrior_Sheet-Effect Parry_43: -2205796440118802832
+      Warrior_Sheet-Effect Parry_44: 4150643057574235241
+      Warrior_Sheet-Effect Parry_45: -4911267354867491626
+      Warrior_Sheet-Effect Parry_46: 1466147625495336754
+      Warrior_Sheet-Effect Parry_47: 1668023966518631840
+      Warrior_Sheet-Effect Parry_48: -1961128081321772399
+      Warrior_Sheet-Effect Parry_49: 2098409942032908792
+      Warrior_Sheet-Effect Parry_5: 1186813896238964480
+      Warrior_Sheet-Effect Parry_50: 6705016575140420924
+      Warrior_Sheet-Effect Parry_51: -1549900900420504339
+      Warrior_Sheet-Effect Parry_52: 8743293609464577769
+      Warrior_Sheet-Effect Parry_53: 8709365052685897504
+      Warrior_Sheet-Effect Parry_54: -9020689004056955873
+      Warrior_Sheet-Effect Parry_55: 1946057107238773989
+      Warrior_Sheet-Effect Parry_56: 5922638723095812524
+      Warrior_Sheet-Effect Parry_57: 1268073807282547915
+      Warrior_Sheet-Effect Parry_58: 6023830997441807655
+      Warrior_Sheet-Effect Parry_59: 2316465969779041952
+      Warrior_Sheet-Effect Parry_6: -6458314036380715711
+      Warrior_Sheet-Effect Parry_60: -4937233221191942374
+      Warrior_Sheet-Effect Parry_61: -7046492647230496985
+      Warrior_Sheet-Effect Parry_62: -6935384834333843129
+      Warrior_Sheet-Effect Parry_63: -4211463401520950751
+      Warrior_Sheet-Effect Parry_64: -1612405159943370768
+      Warrior_Sheet-Effect Parry_65: 9033992571485073214
+      Warrior_Sheet-Effect Parry_66: 3204102815533240965
+      Warrior_Sheet-Effect Parry_67: -628539398580116653
+      Warrior_Sheet-Effect Parry_68: 753892885038496374
+      Warrior_Sheet-Effect Parry_69: 6863442459296277049
+      Warrior_Sheet-Effect Parry_7: 5769667989943840286
+      Warrior_Sheet-Effect Parry_70: -309665536034412767
+      Warrior_Sheet-Effect Parry_71: 9014685612369872742
+      Warrior_Sheet-Effect Parry_72: 4537443506406119578
+      Warrior_Sheet-Effect Parry_73: 3869301854362520217
+      Warrior_Sheet-Effect Parry_74: 541455534242663862
+      Warrior_Sheet-Effect Parry_75: 286752338760827657
+      Warrior_Sheet-Effect Parry_76: -4641887917522224267
+      Warrior_Sheet-Effect Parry_77: -2623989741127625751
+      Warrior_Sheet-Effect Parry_78: 6110650388811533812
+      Warrior_Sheet-Effect Parry_79: 4089730511216768222
+      Warrior_Sheet-Effect Parry_8: -4373094255898878138
+      Warrior_Sheet-Effect Parry_80: 8652752140751814852
+      Warrior_Sheet-Effect Parry_81: -5844491347889504460
+      Warrior_Sheet-Effect Parry_82: 7595027530405170652
+      Warrior_Sheet-Effect Parry_83: 569331087076124456
+      Warrior_Sheet-Effect Parry_84: -3513293436588275448
+      Warrior_Sheet-Effect Parry_85: 3539036184217755534
+      Warrior_Sheet-Effect Parry_86: -1026737572638750877
+      Warrior_Sheet-Effect Parry_87: 2266590581453346799
+      Warrior_Sheet-Effect Parry_88: -852927536477371144
+      Warrior_Sheet-Effect Parry_89: 735225836061017876
+      Warrior_Sheet-Effect Parry_9: -6220054683294738752
+      Warrior_Sheet-Effect Parry_90: 1651392155507113907
+      Warrior_Sheet-Effect Parry_91: -571834486331939122
+      Warrior_Sheet-Effect Parry_92: -2196083181936679825
+      Warrior_Sheet-Effect Parry_93: -4273982328382708314
+      Warrior_Sheet-Effect Parry_94: 1617892699126307703
+      Warrior_Sheet-Effect Parry_95: 3349843819838394634
+      Warrior_Sheet-Effect Parry_96: 8848192728167021533
+      Warrior_Sheet-Effect Parry_97: -7877522400406494215
+      Warrior_Sheet-Effect Parry_98: -4891319103188772180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
