@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d837c78e2c0de44d9d1b64c9d17029c, type: 3}
+  m_Name: Equipment Data - Pata de Cloe
+  m_EditorClassIdentifier: Assembly-CSharp::Equipment_DataSO
+  saveId: 3073c2b54ea96384b9e3cfcade672e35
+  itemName: Cloe's Paw
+  itemIcon: {fileID: -8489835302721233018, guid: 0ac35624ff1de0f42a46c789721d04ec, type: 3}
+  itemType: 0
+  itemRarity: 100
+  dropChance: 65
+  maxDropChance: 65
+  modifiers:
+  - statType: 0
+    value: 20
+  - statType: 6
+    value: 0.1
+  - statType: 17
+    value: 30
+  skillDataItem:
+    skillData: {fileID: 0}

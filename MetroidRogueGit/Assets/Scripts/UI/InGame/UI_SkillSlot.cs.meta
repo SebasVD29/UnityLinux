@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca1edcabe4c893a40a6abcdb6edd3966
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cooldownImage: {instanceID: 0}
+  - inputKeyText: {instanceID: 0}
+  - defaultBg: {fileID: -1191210986, guid: 1d62bc3be5670cb44a9f21ef3fab96fd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

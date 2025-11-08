@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d837c78e2c0de44d9d1b64c9d17029c, type: 3}
+  m_Name: Equipment Data - Lanza del Bendito
+  m_EditorClassIdentifier: 
+  saveId: e53f667dc20c1d741882e4b36a403a82
+  itemName: Blessed Lance
+  itemIcon: {fileID: -5083665829772516994, guid: 0ac35624ff1de0f42a46c789721d04ec, type: 3}
+  itemType: 2
+  itemRarity: 505
+  dropChance: 31.6
+  maxDropChance: 31.6
+  modifiers:
+  - statType: 6
+    value: 0.3
+  - statType: 3
+    value: 20
+  - statType: 13
+    value: 10
+  - statType: 10
+    value: 20
+  skillDataItem:
+    skillData: {fileID: 0}
